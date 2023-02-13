@@ -40,7 +40,7 @@ module.exports = {
             { text: 'External', link: 'https://google.com' },
         ],
         subSidebar: 'auto',
-        logo: '/blog/vuepress/avatar.gif',
+        logo: '/.vuepress/avatar.gif',
         sidebar: [{
                 title: '欢迎学习',
                 path: '/',
