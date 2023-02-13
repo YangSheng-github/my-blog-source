@@ -16,7 +16,7 @@ git push -u origin master:dev
 cp -rf docs/.vuepress/dist ../my-blog-dist/
 
 # 进入生成的文件夹
-cd ../my-blog-dist
+cd ../my-blog-dist/dist
 
 # git初始化，每次初始化不影响推送
 git init
