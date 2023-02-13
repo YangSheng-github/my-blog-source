@@ -19,10 +19,9 @@ cp -rf docs/.vuepress/dist ../my-blog-dist/
 cd ../my-blog-dist/dist
 
 # git初始化，每次初始化不影响推送
-git init
+git init -b gh-pages
 git add -A
 git commit -m 'deploy'
 
-git checkout master:gh-pages
 # 如果你想要部署到 https://USERNAME.github.io
-git push -f git@github.com:Yangsheng-WEB/my-blog.git master:gh-pages
+git push -f git@github.com:Yangsheng-WEB/my-blog.git gh-pages
