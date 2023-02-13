@@ -23,6 +23,7 @@ git init
 git add -A
 git commit -m 'deploy'
 git remote add origin https://github.com/Yangsheng-WEB/my-blog.git
-git push -u origin gh-pages
+git push -u origin master:gh-pages
+git checkout gh-pages
 # 如果你想要部署到 https://USERNAME.github.io
 git push -f git@github.com:Yangsheng-WEB/my-blog.git master:gh-pages
