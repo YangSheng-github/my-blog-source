@@ -41,6 +41,6 @@ git commit -m 'deploy'
 
 # 如果你想要部署到 https://USERNAME.github.io
 git remote add origin https://gitee.com/JL_Ysh/ysh.gitee.io.git
-git push -f https://gitee.com/JL_Ysh/ysh.gitee.io.git gh-pages
+git push -u origin "gh-pages"
 
 cd -
