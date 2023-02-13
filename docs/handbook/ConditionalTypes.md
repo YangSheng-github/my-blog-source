@@ -1,7 +1,5 @@
-# 131313133131
+## 131313133131
+<xicons icon="Star" />
+title: 【vue】跨域解决方案之proxyTable
 
----
-title: 条件类型
-author: 冴羽
-date: '2021-12-12'
----
+date: 2017-12-28
