@@ -14,7 +14,7 @@ git push
 
 # 将build生成的dist目录拷贝至上一层目录中
 cp -rf docs/.vuepress/dist ../my-blog-dist-github/
-cp -r .github ../my-blog-dist-github/
+cp -r .github ../my-blog-dist-github/dist/
 
 # 进入生成的文件夹
 cd ../my-blog-dist-github/dist
