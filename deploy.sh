@@ -5,7 +5,7 @@ set -e
  
 # 生成静态文件， npm run docs:build
 yarn build
-rm -rf ../my-blog-dist-github/*
+rm -rf ../my-blog-dist/*
 
 # 提交更新代码
 git add -A
@@ -13,11 +13,11 @@ git commit -m 'node_modules变更'
 git push
 
 # 将build生成的dist目录拷贝至上一层目录中
-cp -rf docs/.vuepress/dist ../my-blog-dist-github/
-cp -r .github ../my-blog-dist-github/dist/
+cp -rf docs/.vuepress/dist ../my-blog-dist/
+cp -r .github ../my-blog-dist/dist/
 
 # 进入生成的文件夹
-cd ../my-blog-dist-github/dist
+cd ../my-blog-dist/dist
 
 # git初始化，每次初始化不影响推送
 git init -b gh-pages
