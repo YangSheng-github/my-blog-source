@@ -1,7 +1,7 @@
 module.exports = {
     title: 'YshのBlog日常',
     description: '日常一写blog',
-    base: '/my-blog/',
+    base: '/YangSheng_Blog/',
     /*
     类型: Array
     默认值: []
