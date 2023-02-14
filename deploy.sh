@@ -25,7 +25,7 @@ git add -A
 git commit -m 'deploy'
 
 # 如果你想要部署到 https://USERNAME.github.io
-git remote add origin https://github.com/Yangsheng-WEB/YangSheng_Blog.git
-git push -f https://github.com/Yangsheng-WEB/YangSheng_Blog.git gh-pages
+git remote add origin https://github.com/YangSheng-github/YangSheng_Blog.git
+git push -f https://github.com/YangSheng-github/YangSheng_Blog.git gh-pages
 
 cd - 
