@@ -13,7 +13,7 @@ git commit -m 'node_modules变更'
 git push
 
 # 将build生成的dist目录拷贝至上一层目录中
-cp -rf dist ../my-blog-dist/
+cp -rf .vuepress/dist ../my-blog-dist/
 cp -r .github ../my-blog-dist/dist/
 
 # 进入生成的文件夹

@@ -5,7 +5,7 @@ import recoTheme from "vuepress-theme-reco";
 export default defineUserConfig({
   title: "YshのBlog",
   description: "这是使用vuepress-reco进行的第一次配置",
-  dest: './dist',  // 打包文件的位置
+  dest: './.vuepress/dist',  // 打包文件的位置
   // port: 9074,  // 运行端口号
   // 添加到html的head顶部的东西
   head: [
