@@ -19,7 +19,7 @@ export default defineUserConfig({
   theme: recoTheme({
     style: "@vuepress-reco/style-default",
     logo: "/asstes/index-img/logo.gif",
-    author: "Ysh",
+    author: "-Ysh-",
     authorAvatar: "/asstes/index-img/head.png",
     docsRepo: "https://github.com/vuepress-reco/vuepress-theme-reco-next",
     docsBranch: "main",
