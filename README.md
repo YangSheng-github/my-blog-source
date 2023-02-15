@@ -6,7 +6,7 @@ modules:
   - MdContent
   - Footer
 bannerBrand:
-  bgImage: '/asstes/index-img/bg.svg'
+  bgImage: '/asstes/index-img/logo-2.jpeg'
   title: 技术杂货铺
   description: 在成长的道路上披荆斩棘。
   tagline: We are all developers, On the road, don't give up and don't give up.
@@ -17,3 +17,8 @@ isShowTitleInHome: true
 actionText: About
 actionLink: /views/other/about
 ---
+<style>
+  .description,.tagline {
+    color:#fff;
+  }
+</style>

@@ -1,0 +1,32 @@
+{
+  "hash": "d6cf5c4b",
+  "browserHash": "922e9ed5",
+  "optimized": {
+    "@vuepress/shared": {
+      "src": "../../../node_modules/@vuepress/shared/dist/index.js",
+      "file": "@vuepress_shared.js",
+      "fileHash": "28626609",
+      "needsInterop": false
+    },
+    "vue": {
+      "src": "../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "0a896744",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "src": "../../../node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "file": "vue-router.js",
+      "fileHash": "ac11f083",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-O3GVVXX2": {
+      "file": "chunk-O3GVVXX2.js"
+    },
+    "chunk-CINGTNZO": {
+      "file": "chunk-CINGTNZO.js"
+    }
+  }
+}
