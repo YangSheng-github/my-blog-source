@@ -21,9 +21,9 @@ export default defineUserConfig({
     logo: "/asstes/index-img/logo.gif",
     author: "-Ysh-",
     authorAvatar: "/asstes/index-img/head.png",
-    docsRepo: "https://github.com/vuepress-reco/vuepress-theme-reco-next",
-    docsBranch: "main",
-    docsDir: "example",
+    // docsRepo: "https://github.com/vuepress-reco/vuepress-theme-reco-next",
+    // docsBranch: "main",
+    // docsDir: "example",
     lastUpdatedText: "",
     // series 为原 sidebar
     series: {
@@ -31,20 +31,19 @@ export default defineUserConfig({
          {
           text: "系统集成项目管理工程师",
           collapsible: true,
-          children: ["/docs/system-SIPME/home", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme"],
+          children: ["/docs/system-SIPME/home", "/docs/system-SIPME/theme"],
         },
       ],
     },
     navbar: [
       { text: "主页", link: "/" },
-      { text: "标签", link: "/tags/" },
-      { text: "链接", link: "/tags/" },
+      // { text: "标签", link: "/tags/" },
+      // { text: "链接", link: "/tags/" },
       // { text: "Categories", link: "/categories/reco/1/" },
       {
-        text: "Docs",
+        text: "文档",
         children: [
-          { text: "vuepress-reco", link: "/docs/system-SIPME/theme" },
-          { text: "vuepress-theme-reco", link: "/blogs/other/guide" },
+          { text: "系统集成项目管理工程师", link: "/docs/system-SIPME/home" },
         ],
       },
     ],

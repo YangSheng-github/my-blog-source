@@ -14,14 +14,14 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "theme-reco",
+    "title": "简介",
     "headers": [],
     "path": "/docs/system-SIPME/home.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "theme",
+    "title": "01.项目管理基础",
     "headers": [],
     "path": "/docs/system-SIPME/theme.html",
     "pathLocale": "/",
