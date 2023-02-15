@@ -28,10 +28,10 @@ export default defineUserConfig({
     // series 为原 sidebar
     series: {
       "/docs/": [
-        {
+         {
           text: "系统集成项目管理工程师",
           collapsible: true,
-          children: ["/docs/system-SIPME/home", "/docs/system-SIPME/theme"],
+          children: ["/docs/system-SIPME/home", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme", "/docs/system-SIPME/theme"],
         },
       ],
     },
@@ -39,7 +39,7 @@ export default defineUserConfig({
       { text: "主页", link: "/" },
       { text: "标签", link: "/tags/" },
       { text: "链接", link: "/tags/" },
-      { text: "Categories", link: "/categories/reco/1/" },
+      // { text: "Categories", link: "/categories/reco/1/" },
       {
         text: "Docs",
         children: [
