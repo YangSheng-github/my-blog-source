@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-470ff50c","path":"/docs/system-SIPME/home.html","title":"简介","lang":"en-US","frontmatter":{"title":"简介","date":"2023/02/16"},"headers":[],"git":{"createdTime":1676460103000,"updatedTime":1676460103000,"contributors":[{"name":"Ysh","email":"yangsheng_email@163.com","commits":1}]},"filePathRelative":"docs/system-SIPME/home.md"}');export{e as data};
