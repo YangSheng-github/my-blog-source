@@ -27,14 +27,11 @@ export default defineUserConfig({
     lastUpdatedText: "",
     // series 为原 sidebar
     series: {
-      "/docs/theme-reco/": [
+      "/docs/": [
         {
-          text: "module one",
-          children: ["home", "theme"],
-        },
-        {
-          text: "module two",
-          children: ["api", "plugin"],
+          text: "系统集成项目管理工程师",
+          collapsible: true,
+          children: ["/docs/system-SIPME/home", "/docs/system-SIPME/theme"],
         },
       ],
     },
@@ -45,7 +42,7 @@ export default defineUserConfig({
       {
         text: "Docs",
         children: [
-          { text: "vuepress-reco", link: "/docs/theme-reco/theme" },
+          { text: "vuepress-reco", link: "/docs/system-SIPME/theme" },
           { text: "vuepress-theme-reco", link: "/blogs/other/guide" },
         ],
       },

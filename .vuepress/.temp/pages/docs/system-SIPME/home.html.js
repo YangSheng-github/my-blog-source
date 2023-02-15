@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-470ff50c\",\"path\":\"/docs/system-SIPME/home.html\",\"title\":\"theme-reco\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"theme-reco\",\"date\":\"2020/05/29\"},\"headers\":[],\"git\":{\"createdTime\":null,\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"docs/system-SIPME/home.md\"}")

@@ -121,30 +121,16 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "api",
-    "headers": [],
-    "path": "/docs/theme-reco/api.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "theme-reco",
     "headers": [],
-    "path": "/docs/theme-reco/home.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "plugin",
-    "headers": [],
-    "path": "/docs/theme-reco/plugin.html",
+    "path": "/docs/system-SIPME/home.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "theme",
     "headers": [],
-    "path": "/docs/theme-reco/theme.html",
+    "path": "/docs/system-SIPME/theme.html",
     "pathLocale": "/",
     "extraFields": []
   },

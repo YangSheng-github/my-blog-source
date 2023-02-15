@@ -23,14 +23,10 @@ export const pagesComponents = {
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"E:/Blog/my-blog/.vuepress/.temp/pages/index.html.vue")),
   // path: /blogs/other/guide.html
   "v-6bb1ef33": defineAsyncComponent(() => import(/* webpackChunkName: "v-6bb1ef33" */"E:/Blog/my-blog/.vuepress/.temp/pages/blogs/other/guide.html.vue")),
-  // path: /docs/theme-reco/api.html
-  "v-acdd9360": defineAsyncComponent(() => import(/* webpackChunkName: "v-acdd9360" */"E:/Blog/my-blog/.vuepress/.temp/pages/docs/theme-reco/api.html.vue")),
-  // path: /docs/theme-reco/home.html
-  "v-5cd03a29": defineAsyncComponent(() => import(/* webpackChunkName: "v-5cd03a29" */"E:/Blog/my-blog/.vuepress/.temp/pages/docs/theme-reco/home.html.vue")),
-  // path: /docs/theme-reco/plugin.html
-  "v-456cc6d6": defineAsyncComponent(() => import(/* webpackChunkName: "v-456cc6d6" */"E:/Blog/my-blog/.vuepress/.temp/pages/docs/theme-reco/plugin.html.vue")),
-  // path: /docs/theme-reco/theme.html
-  "v-65959fc1": defineAsyncComponent(() => import(/* webpackChunkName: "v-65959fc1" */"E:/Blog/my-blog/.vuepress/.temp/pages/docs/theme-reco/theme.html.vue")),
+  // path: /docs/system-SIPME/home.html
+  "v-470ff50c": defineAsyncComponent(() => import(/* webpackChunkName: "v-470ff50c" */"E:/Blog/my-blog/.vuepress/.temp/pages/docs/system-SIPME/home.html.vue")),
+  // path: /docs/system-SIPME/theme.html
+  "v-4a3182e0": defineAsyncComponent(() => import(/* webpackChunkName: "v-4a3182e0" */"E:/Blog/my-blog/.vuepress/.temp/pages/docs/system-SIPME/theme.html.vue")),
   // path: /blogs/category1/2018/121501.html
   "v-32598bfc": defineAsyncComponent(() => import(/* webpackChunkName: "v-32598bfc" */"E:/Blog/my-blog/.vuepress/.temp/pages/blogs/category1/2018/121501.html.vue")),
   // path: /blogs/category1/2019/092101.html
