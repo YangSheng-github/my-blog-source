@@ -10,7 +10,7 @@ rm -rf ../my-blog-dist/*
 # 提交更新代码
 git add -A
 git commit -m 'node_modules变更'
-git push
+git push -f https://github.com/YangSheng-github/my-blog-source.git dev
 
 # 将build生成的dist目录拷贝至上一层目录中
 cp -rf .vuepress/dist ../my-blog-dist/
