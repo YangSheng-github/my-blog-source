@@ -1,0 +1,1 @@
+import{_ as e,p as n,q as t,s as c}from"./framework-4a7f5a2b.js";const o={},i=c("p",null,"first page in category1",-1),s=[i];function _(a,g){return n(),t("div",null,s)}const l=e(o,[["render",_],["__file","xitongjichengxiangmuguanligongchengshi_1.html.vue"]]);export{l as default};

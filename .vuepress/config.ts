@@ -48,8 +48,13 @@ export default defineUserConfig({
     },
     navbar: [
       { text: "主页", link: "/" },
-      { text: "Blog_分类", link: "/categories/jishuwenzhang/1/" },
-      { text: "Blog_标签", link: "/tags/WEBqianduanjishu/1/" },
+      {
+        text: "博客",
+        children: [
+          { text: "Blogの分类", link: "/categories/bokedajian/1/" },
+          { text: "Blogの标签", link: "/tags/jishuwenzhang/1/" },
+        ],
+      },
       {
         text: "文档",
         children: [

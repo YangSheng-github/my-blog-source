@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as o,s as _}from"./framework-4a7f5a2b.js";const a={},n=_("p",null,"first page in category1",-1),s=[n];function c(r,i){return t(),o("div",null,s)}const d=e(a,[["render",c],["__file","bokedajian_1.html.vue"]]);export{d as default};

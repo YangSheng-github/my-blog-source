@@ -9,14 +9,28 @@ export const searchIndex = [
   {
     "title": "",
     "headers": [],
-    "path": "/categories/jishuwenzhang/1/",
+    "path": "/categories/ruankaozhongji/1/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "",
     "headers": [],
-    "path": "/tags/WEBqianduanjishu/1/",
+    "path": "/categories/bokedajian/1/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
+    "path": "/tags/zhongjizhichen/1/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
+    "path": "/tags/jishuwenzhang/1/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -35,9 +49,30 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "技术文章总览",
+    "title": "软考中级_系统集成项目管理工程师 (一) 软考简介",
     "headers": [],
-    "path": "/blogs/tech/home.html",
+    "path": "/blogs/study/xitongjichengxiangmuguanligongchengshi_1.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "软考中级_系统集成项目管理工程师 (二) 项目管理基础",
+    "headers": [],
+    "path": "/blogs/study/xitongjichengxiangmuguanligongchengshi_2.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "软考中级_系统集成项目管理工程师 (三) 项目整合管理",
+    "headers": [],
+    "path": "/blogs/study/xitongjichengxiangmuguanligongchengshi_3.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "使用Vuepress进行博客搭建并实现自动部署 (一)",
+    "headers": [],
+    "path": "/blogs/tech/bokedajian_1.html",
     "pathLocale": "/",
     "extraFields": []
   },
