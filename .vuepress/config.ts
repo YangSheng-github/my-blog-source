@@ -25,6 +25,7 @@ export default defineUserConfig({
     // docsBranch: "main",
     // docsDir: "example",
     lastUpdatedText: "",
+    catalogTitle: '自定义目录标题',
     // series 为原 sidebar
     series: {
       "/docs/": [
@@ -33,17 +34,28 @@ export default defineUserConfig({
           collapsible: true,
           children: ["/docs/system-SIPME/home", "/docs/system-SIPME/theme"],
         },
+        {
+          text: "JavaScript高级程序设计",
+          collapsible: true,
+          children: ["/docs/JavaScript/home"],
+        },
+        {
+          text: "前端面试题",
+          collapsible: true,
+          children: ["/docs/web-interview/home"],
+        },
       ],
     },
     navbar: [
       { text: "主页", link: "/" },
-      // { text: "标签", link: "/tags/" },
-      // { text: "链接", link: "/tags/" },
-      // { text: "Categories", link: "/categories/reco/1/" },
+      { text: "Blog_分类", link: "/categories/jishuwenzhang/1/" },
+      { text: "Blog_标签", link: "/tags/jishuwenzhang/1/" },
       {
         text: "文档",
         children: [
           { text: "系统集成项目管理工程师", link: "/docs/system-SIPME/home" },
+          { text: "JavaScript高级程序设计", link: "/docs/JavaScript/home" },
+          { text: "前端面试题", link: "/docs/web-interview/home" },
         ],
       },
     ],

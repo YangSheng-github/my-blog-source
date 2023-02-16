@@ -12,6 +12,7 @@
     left: 0;
     right: 0;
     border: none;
+    background-color: rgb(49 89 119 / 0.1);
   }
   .xicon-content,.xicon-icon {
     color:skyblue !important;

@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-4c757347\",\"path\":\"/docs/JavaScript/\",\"title\":\"\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{\"createdTime\":null,\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"docs/JavaScript/index.md\"}")

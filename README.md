@@ -2,6 +2,8 @@
 home: true
 modules:
   - BannerBrand
+  - Blog
+  - MdContent
   - Footer
 bannerBrand:
   bgImage: '/asstes/index-img/logo-2.png'
@@ -19,6 +21,7 @@ bannerBrand:
     left: 0;
     right: 0;
     border: none;
+    background-color: rgb(49 89 119 / 0.1);
   }
   .xicon-content,.xicon-icon {
     color:skyblue !important;
