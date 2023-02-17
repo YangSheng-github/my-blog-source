@@ -9,6 +9,13 @@ export const searchIndex = [
   {
     "title": "",
     "headers": [],
+    "path": "/categories/yuanmarenzhi/1/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
     "path": "/categories/ruankaozhongji/1/",
     "pathLocale": "/",
     "extraFields": []
@@ -17,6 +24,13 @@ export const searchIndex = [
     "title": "",
     "headers": [],
     "path": "/categories/bokedajian/1/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
+    "path": "/tags/renzhixuexi/1/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -45,6 +59,13 @@ export const searchIndex = [
     "title": "",
     "headers": [],
     "path": "/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "前端认知学 (一)",
+    "headers": [],
+    "path": "/blogs/Huawei_study/qianduanrenzhixuexi_1.html",
     "pathLocale": "/",
     "extraFields": []
   },

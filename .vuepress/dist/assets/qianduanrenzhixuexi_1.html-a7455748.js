@@ -1,0 +1,1 @@
+import{_ as e,p as n,q as t,s as _}from"./framework-4a7f5a2b.js";const a={},s=_("p",null,"first page in category1",-1),c=[s];function o(r,i){return n(),t("div",null,c)}const u=e(a,[["render",o],["__file","qianduanrenzhixuexi_1.html.vue"]]);export{u as default};

@@ -3,10 +3,14 @@ import { defineAsyncComponent } from 'vue'
 export const pagesComponents = {
   // path: /timeline/
   "v-01560935": defineAsyncComponent(() => import(/* webpackChunkName: "v-01560935" */"E:/Blog/my-blog/.vuepress/.temp/pages/timeline/index.html.vue")),
+  // path: /categories/yuanmarenzhi/1/
+  "v-1248b6d6": defineAsyncComponent(() => import(/* webpackChunkName: "v-1248b6d6" */"E:/Blog/my-blog/.vuepress/.temp/pages/categories/yuanmarenzhi/1/index.html.vue")),
   // path: /categories/ruankaozhongji/1/
   "v-29b079e3": defineAsyncComponent(() => import(/* webpackChunkName: "v-29b079e3" */"E:/Blog/my-blog/.vuepress/.temp/pages/categories/ruankaozhongji/1/index.html.vue")),
   // path: /categories/bokedajian/1/
   "v-0e942903": defineAsyncComponent(() => import(/* webpackChunkName: "v-0e942903" */"E:/Blog/my-blog/.vuepress/.temp/pages/categories/bokedajian/1/index.html.vue")),
+  // path: /tags/renzhixuexi/1/
+  "v-bc3c30de": defineAsyncComponent(() => import(/* webpackChunkName: "v-bc3c30de" */"E:/Blog/my-blog/.vuepress/.temp/pages/tags/renzhixuexi/1/index.html.vue")),
   // path: /tags/zhongjizhichen/1/
   "v-4fe92260": defineAsyncComponent(() => import(/* webpackChunkName: "v-4fe92260" */"E:/Blog/my-blog/.vuepress/.temp/pages/tags/zhongjizhichen/1/index.html.vue")),
   // path: /tags/jishuwenzhang/1/
@@ -15,6 +19,8 @@ export const pagesComponents = {
   "v-03d52fd3": defineAsyncComponent(() => import(/* webpackChunkName: "v-03d52fd3" */"E:/Blog/my-blog/.vuepress/.temp/pages/posts/1/index.html.vue")),
   // path: /
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"E:/Blog/my-blog/.vuepress/.temp/pages/index.html.vue")),
+  // path: /blogs/Huawei_study/qianduanrenzhixuexi_1.html
+  "v-57c28709": defineAsyncComponent(() => import(/* webpackChunkName: "v-57c28709" */"E:/Blog/my-blog/.vuepress/.temp/pages/blogs/Huawei_study/qianduanrenzhixuexi_1.html.vue")),
   // path: /blogs/study/xitongjichengxiangmuguanligongchengshi_1.html
   "v-33568a85": defineAsyncComponent(() => import(/* webpackChunkName: "v-33568a85" */"E:/Blog/my-blog/.vuepress/.temp/pages/blogs/study/xitongjichengxiangmuguanligongchengshi_1.html.vue")),
   // path: /blogs/study/xitongjichengxiangmuguanligongchengshi_2.html
