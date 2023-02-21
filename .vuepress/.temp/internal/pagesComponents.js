@@ -3,14 +3,18 @@ import { defineAsyncComponent } from 'vue'
 export const pagesComponents = {
   // path: /timeline/
   "v-01560935": defineAsyncComponent(() => import(/* webpackChunkName: "v-01560935" */"E:/Blog/my-blog/.vuepress/.temp/pages/timeline/index.html.vue")),
-  // path: /categories/yuanmarenzhi/1/
-  "v-1248b6d6": defineAsyncComponent(() => import(/* webpackChunkName: "v-1248b6d6" */"E:/Blog/my-blog/.vuepress/.temp/pages/categories/yuanmarenzhi/1/index.html.vue")),
+  // path: /categories/Markdownjichu/1/
+  "v-509dece5": defineAsyncComponent(() => import(/* webpackChunkName: "v-509dece5" */"E:/Blog/my-blog/.vuepress/.temp/pages/categories/Markdownjichu/1/index.html.vue")),
+  // path: /categories/HTMLxuexi/1/
+  "v-2507ac99": defineAsyncComponent(() => import(/* webpackChunkName: "v-2507ac99" */"E:/Blog/my-blog/.vuepress/.temp/pages/categories/HTMLxuexi/1/index.html.vue")),
   // path: /categories/ruankaozhongji/1/
   "v-29b079e3": defineAsyncComponent(() => import(/* webpackChunkName: "v-29b079e3" */"E:/Blog/my-blog/.vuepress/.temp/pages/categories/ruankaozhongji/1/index.html.vue")),
   // path: /categories/bokedajian/1/
   "v-0e942903": defineAsyncComponent(() => import(/* webpackChunkName: "v-0e942903" */"E:/Blog/my-blog/.vuepress/.temp/pages/categories/bokedajian/1/index.html.vue")),
-  // path: /tags/renzhixuexi/1/
-  "v-bc3c30de": defineAsyncComponent(() => import(/* webpackChunkName: "v-bc3c30de" */"E:/Blog/my-blog/.vuepress/.temp/pages/tags/renzhixuexi/1/index.html.vue")),
+  // path: /tags/Markdownjichujiaocheng/1/
+  "v-0770f534": defineAsyncComponent(() => import(/* webpackChunkName: "v-0770f534" */"E:/Blog/my-blog/.vuepress/.temp/pages/tags/Markdownjichujiaocheng/1/index.html.vue")),
+  // path: /tags/webrenzhixuexi/1/
+  "v-06e04c8b": defineAsyncComponent(() => import(/* webpackChunkName: "v-06e04c8b" */"E:/Blog/my-blog/.vuepress/.temp/pages/tags/webrenzhixuexi/1/index.html.vue")),
   // path: /tags/zhongjizhichen/1/
   "v-4fe92260": defineAsyncComponent(() => import(/* webpackChunkName: "v-4fe92260" */"E:/Blog/my-blog/.vuepress/.temp/pages/tags/zhongjizhichen/1/index.html.vue")),
   // path: /tags/jishuwenzhang/1/
@@ -19,8 +23,8 @@ export const pagesComponents = {
   "v-03d52fd3": defineAsyncComponent(() => import(/* webpackChunkName: "v-03d52fd3" */"E:/Blog/my-blog/.vuepress/.temp/pages/posts/1/index.html.vue")),
   // path: /
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"E:/Blog/my-blog/.vuepress/.temp/pages/index.html.vue")),
-  // path: /blogs/Huawei_study/qianduanrenzhixuexi_1.html
-  "v-57c28709": defineAsyncComponent(() => import(/* webpackChunkName: "v-57c28709" */"E:/Blog/my-blog/.vuepress/.temp/pages/blogs/Huawei_study/qianduanrenzhixuexi_1.html.vue")),
+  // path: /blogs/md-study/Markdownjichujiaocheng.html
+  "v-56c13b06": defineAsyncComponent(() => import(/* webpackChunkName: "v-56c13b06" */"E:/Blog/my-blog/.vuepress/.temp/pages/blogs/md-study/Markdownjichujiaocheng.html.vue")),
   // path: /blogs/study/xitongjichengxiangmuguanligongchengshi_1.html
   "v-33568a85": defineAsyncComponent(() => import(/* webpackChunkName: "v-33568a85" */"E:/Blog/my-blog/.vuepress/.temp/pages/blogs/study/xitongjichengxiangmuguanligongchengshi_1.html.vue")),
   // path: /blogs/study/xitongjichengxiangmuguanligongchengshi_2.html
@@ -29,6 +33,8 @@ export const pagesComponents = {
   "v-36c03bc3": defineAsyncComponent(() => import(/* webpackChunkName: "v-36c03bc3" */"E:/Blog/my-blog/.vuepress/.temp/pages/blogs/study/xitongjichengxiangmuguanligongchengshi_3.html.vue")),
   // path: /blogs/tech/bokedajian_1.html
   "v-0e0b0582": defineAsyncComponent(() => import(/* webpackChunkName: "v-0e0b0582" */"E:/Blog/my-blog/.vuepress/.temp/pages/blogs/tech/bokedajian_1.html.vue")),
+  // path: /blogs/web_study/qianduangongguxuexi_HTML.html
+  "v-5c0bec4a": defineAsyncComponent(() => import(/* webpackChunkName: "v-5c0bec4a" */"E:/Blog/my-blog/.vuepress/.temp/pages/blogs/web_study/qianduangongguxuexi_HTML.html.vue")),
   // path: /docs/JavaScript/
   "v-4c757347": defineAsyncComponent(() => import(/* webpackChunkName: "v-4c757347" */"E:/Blog/my-blog/.vuepress/.temp/pages/docs/JavaScript/index.html.vue")),
   // path: /docs/system-SIPME/home.html
