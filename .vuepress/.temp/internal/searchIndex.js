@@ -81,6 +81,13 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
+        "title": "Markdown基础教程(全)",
+        "slug": "markdown基础教程-全",
+        "link": "#markdown基础教程-全",
+        "children": []
+      },
+      {
+        "level": 2,
         "title": "基础语法",
         "slug": "基础语法",
         "link": "#基础语法",

@@ -1,4 +1,4 @@
-<template><div><h1 id="markdown基础教程-全" tabindex="-1"><a class="header-anchor" href="#markdown基础教程-全" aria-hidden="true">#</a> Markdown基础教程(全)</h1>
+<template><div><h2 id="markdown基础教程-全" tabindex="-1"><a class="header-anchor" href="#markdown基础教程-全" aria-hidden="true">#</a> Markdown基础教程(全)</h2>
 <blockquote>
 <p>提到Markdown，很多人首先想到的是简单、Easy等等。的确，Markdown为简单而生。Markdown是由一个叫 JOHN GRUBER 的哥们发明的，它的语法用一篇文章就可以说完。让我们来试试看...</p>
 </blockquote>
@@ -96,10 +96,10 @@
 </li>
 <li>
 <p>段落二</p>
-<p>小段二
-另外，如果在列表中加入了区块引用，区域引用标记符也需要缩进4个空格</p>
+<p>小段二</p>
 </li>
 </ul>
+<p>另外，如果在列表中加入了区块引用，区域引用标记符也需要缩进4个空格</p>
 <div class="language-text line-numbers-mode" data-ext="text"><pre v-pre class="language-text"><code>* 段落一
     > 区块标记一
 * 段落二
