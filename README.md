@@ -10,6 +10,8 @@ bannerBrand:
   title: 技术杂货铺
   description: 在成长的道路上披荆斩棘。
   tagline: energy and persistence conquer all things. 能量加毅力可以征服一切。
+footer:
+  record: 吉ICP备2021003560号
 ---
 <style>
   .description,.tagline {
