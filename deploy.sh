@@ -5,6 +5,13 @@ set -e
  
 # 生成静态文件， npm run docs:build
 yarn build
+
+cd ./.vuepress/dist
+
+scp -v -r * root@121.36.102.218:/www/wwwroot/web-ysh.top
+
+cd -
+
 rm -rf ../my-blog-dist/*
 # 提交更新代码
 git add -A
@@ -25,7 +32,5 @@ git commit -m 'deploy'
 
 # 如果你想要部署到 https://USERNAME.github.io
 git push -f https://github.com/YangSheng-github/YangSheng-gitee.git gh-pages
-
-scp -v -r * root@121.36.102.218:/www/wwwroot/web-ysh.top
 
 cd - 
