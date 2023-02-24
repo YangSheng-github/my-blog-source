@@ -6,7 +6,6 @@ set -e
 # 生成静态文件， npm run docs:build
 yarn build
 rm -rf ../my-blog-dist/*
-
 # 提交更新代码
 git add -A
 git commit -m 'node_modules变更'
