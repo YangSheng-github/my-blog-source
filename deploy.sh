@@ -27,6 +27,5 @@ git commit -m 'deploy'
 git push -f https://github.com/YangSheng-github/YangSheng-gitee.git gh-pages
 
 scp -v -r * root@121.36.102.218:/www/wwwroot/web-ysh.top
-cnp200@YS
 
 cd - 
