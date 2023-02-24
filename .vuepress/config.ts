@@ -67,6 +67,8 @@ export default defineUserConfig({
     commentConfig: {
       type: 'valine',
       visitor: true,
+      appId: 'Y5ASjamIfxLFgfJ7yDdcpbiX-gzGzoHsz',
+      appKey: 'acnvDzm28v2fVntKx0aX8bJB',
       // 评论者头像
       avatar: "monsterid",
       // 设置Bilibili表情包地址
